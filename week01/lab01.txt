@@ -1,0 +1,19 @@
+total 64
+drwxr-xr-x 15 al.faruqi StafCS 4096 Sep 15 17:41 .
+drwx--x--x  3 al.faruqi StafCS 4096 Sep 15 17:39 ..
+drwxr-xr-x  8 al.faruqi StafCS 4096 Sep 15 17:40 .git
+-rw-r--r--  1 al.faruqi StafCS    0 Sep 15 17:42 lab01.txt
+-rw-r--r--  1 al.faruqi StafCS    8 Sep 15 17:23 README.md
+drwxr-xr-x  2 al.faruqi StafCS 4096 Sep 15 17:32 SandBox
+drwxr-xr-x  2 al.faruqi StafCS 4096 Sep 15 17:39 week00
+drwxr-xr-x  2 al.faruqi StafCS 4096 Sep 15 17:11 week01
+drwxr-xr-x  2 al.faruqi StafCS 4096 Sep 15 17:12 week02
+drwxr-xr-x  2 al.faruqi StafCS 4096 Sep 15 17:12 week03
+drwxr-xr-x  2 al.faruqi StafCS 4096 Sep 15 17:12 week04
+drwxr-xr-x  2 al.faruqi StafCS 4096 Sep 15 17:12 week05
+drwxr-xr-x  2 al.faruqi StafCS 4096 Sep 15 17:12 week06
+drwxr-xr-x  2 al.faruqi StafCS 4096 Sep 15 17:13 week07
+drwxr-xr-x  2 al.faruqi StafCS 4096 Sep 15 17:13 week08
+drwxr-xr-x  2 al.faruqi StafCS 4096 Sep 15 17:13 week09
+drwxr-xr-x  2 al.faruqi StafCS 4096 Sep 15 17:13 week10
+/home/fasilkom/mahasiswa/a/al.faruqi/os162/week01
